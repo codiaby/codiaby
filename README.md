@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **GoLang and AWS**
 
-- 💬 Ask me about **Docker, Jenkins, Ansible, Docker Swarm, Vagrant**
+- 💬 Ask me about **Docker, Gitlab-CI, Ansible, Docker Swarm, Vagrant, Terraform, Hashicorp vault**
 
 - 📫 How to reach me **diabycheickoumar@gmail.com**
 
